@@ -10,4 +10,5 @@ async function main()
         window.scrollTo(document.body.scrollWidth,document.body.scrollHeight)
     }
 }
+console.log("content.js")
 main()
